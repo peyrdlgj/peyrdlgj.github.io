@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://peyrdlgj.github.io/sitemap.xml
